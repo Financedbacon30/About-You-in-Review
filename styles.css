@@ -79,3 +79,15 @@ textarea{
     margin-bottom:10px;
 
 }
+/*Goals Page*/
+#my_goals li{
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+#my_goals dd{
+    font-size: large;
+}
+#my_goals dt{
+    font-size: large;
+}
